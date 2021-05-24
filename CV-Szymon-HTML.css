@@ -1,5 +1,6 @@
 
 .container {
+  background-color:orangered;
   margin: auto;
   padding: 20px;
   width: 80%;
@@ -12,9 +13,11 @@ aside {
 }
 
 .firstContact {
-  font-family:'Courier New', Courier, monospace;
-  font-weight:bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight:900;
+  font-size: 20px;
   letter-spacing: 5px;
+  line-height: 25px;
 }
 
 .firstContact-one {
@@ -22,6 +25,8 @@ aside {
   letter-spacing: 0;
   padding: 5px;
   margin: 5px;
+  font-size: 15px;
+  font-weight:500;
 }
 
 img {
@@ -31,6 +36,7 @@ img {
 
 h1 {
     font-family:'Courier New', Courier, monospace;
-    margin:20px;
+    margin:auto;
+    padding:20px;
     font-size: 50px;
 }
