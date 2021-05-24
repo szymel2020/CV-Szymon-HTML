@@ -1,6 +1,6 @@
 
 .container {
-  background-color:orangered;
+  background-color:rgb(238, 198, 184);
   margin: auto;
   padding: 20px;
   width: 80%;
@@ -9,7 +9,8 @@
 aside {
   float: left;
   background-color:orange;
-  margin: 10px;
+  margin: 20px;
+  padding: 10px;
 }
 
 .firstContact {
