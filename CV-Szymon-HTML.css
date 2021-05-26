@@ -51,6 +51,7 @@ h1 {
     padding:20px;
     text-align: center;
     font-size: 50px;
+    text-shadow: 4px 4px 5px grey;
 }
 
 p {
