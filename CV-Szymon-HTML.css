@@ -87,3 +87,17 @@ section {
   text-align: justify;
   padding: 20px;
 }
+
+/*Responsive*/
+
+@media screen and (max-width: 750px) {
+  .info {
+    float: left;
+    background-color:rgb(238, 198, 184);
+  }
+  .container {
+    background-color: white;
+  }
+}
+
+
