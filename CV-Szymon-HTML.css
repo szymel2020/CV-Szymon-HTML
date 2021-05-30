@@ -21,7 +21,7 @@ aside {
   flex-direction: column;
 }
 
-.firstContact {
+.firstContact, .firstSkills {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight:900;
   font-size: 20px;
@@ -30,7 +30,7 @@ aside {
   text-transform: uppercase;
 }
 
-.firstContact-one {
+.firstContact-one, .firstSkills-one {
   list-style-type: none;
   letter-spacing: 0;
   padding: 5px;
@@ -62,7 +62,7 @@ p {
   /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
 }
 
-.firstExperience {
+.experience, .schools {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight:900;
   font-size: 20px;
@@ -72,7 +72,7 @@ p {
   text-align: justify;
 }
 
-.firstExperience-one {
+.experience-one, .schools-one {
   list-style-type: none;
   letter-spacing: 0;
   padding: 5px;
